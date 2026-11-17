@@ -311,6 +311,7 @@ def mostrar_resumen(tram, n):
 # PARTE 3. PROGRAMA PRINCIPAL
 # =====================================================
 
+# Menu principal del sistema
 def main():
 
     # Cargar los datos al iniciar
