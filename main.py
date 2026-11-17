@@ -283,6 +283,7 @@ def listar_expedientes(cod, dni_a, nom_a,
 # MOSTRAR RESUMEN DE EXPEDIENTES
 # =====================================================
 
+# Generacion de reportes estadisticos
 def mostrar_resumen(tram, n):
 
     c1 = 0
