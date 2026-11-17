@@ -200,6 +200,7 @@ def registrar_expediente(cod, dni_a, nom_a,
 # CONSULTAR EXPEDIENTE POR CODIGO
 # =====================================================
 
+# Consulta de expedientes registrados
 def consultar_expediente(cod, dni_a, nom_a,
                          dni_e, nom_e, tram, fec, n):
 
