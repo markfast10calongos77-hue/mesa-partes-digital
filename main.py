@@ -82,6 +82,7 @@ def guardar_archivo(ruta, cod, dni_a, nom_a,
 # FUNCIONES DE VALIDACION Y AUXILIARES
 # =====================================================
 
+# Validacion de identificacion del usuario
 def validar_dni(dni):
     return len(dni) == 8 and dni.isdigit()
 
