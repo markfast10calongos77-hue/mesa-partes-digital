@@ -1,7 +1,8 @@
 import os
-
 # =====================================================
-# PARTE 1. CARGAR LOS EXPEDIENTES DESDE EL ARCHIVO
+# PROYECTO: MESA DE PARTES DIGITAL
+# I.E. 2032 MANUEL SCORZA TORRES
+# CURSO: FUNDAMENTOS DE PROGRAMACION
 # =====================================================
 
 RUTA_ARCHIVO = "datos/expedientes.txt"
